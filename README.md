@@ -22,6 +22,8 @@ In the era of "Trending" lists, high-quality indie and niche films often get bur
 
 [Image of Content-Based Filtering workflow diagram]
 
+![App Demo](assets/app-demo1.png)
+![App Demo](assets/app-demo.png)
 
 ---
 
