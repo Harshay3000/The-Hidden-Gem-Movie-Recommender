@@ -54,3 +54,11 @@ To be classified as a "Gem," a movie must pass two filters:
    ```bash
    git clone [https://github.com/yourusername/GemFinder-AI.git](https://github.com/yourusername/GemFinder-AI.git)
    cd GemFinder-AI
+
+2. **Install Requirements**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the App**
+   ```bash
+   streamlit run app.py
